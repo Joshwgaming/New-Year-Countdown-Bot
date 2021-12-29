@@ -11,11 +11,7 @@ client.login(botToken)
 
 client.on('ready', () => {
     console.log(`${client.user.tag} successfully logged in.`);
-
-    var interval = setInterval (function () {
-        client.user.setActivity(`${prefix}countdown`)
-    }, 1 * 60000);//1800000);//1000 = 1s
-
+    client.user.setActivity(`${prefix}countdown`)
 });
 
 client.on('messageCreate', (message) => {
