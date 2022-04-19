@@ -1,7 +1,7 @@
 # New Year Countdown Bot - **Updated to DiscordJS v13**
 DiscordJS bot that counts down until the new year starts!
 
-### Invite a 24/7 countdown bot into your own server using the following link - **Having an issue with the bot running, source code is up to date if you wish to host your own. Will work on getting it back online in the next few days.**: 
+### Invite a 24/7 countdown bot into your own server using the following link -
 https://discord.com/api/oauth2/authorize?client_id=925547105098006619&permissions=68608&scope=bot
 
 ### Or, selfhost your own countdown bot!
