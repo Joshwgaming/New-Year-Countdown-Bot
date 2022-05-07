@@ -1,4 +1,8 @@
 {
-    "botToken": "your bot token here",
-    "prefix": "!"
+    "botToken": "bot token",
+    "prefix": "!",
+    "guildId": "primary guild id",
+    "clientId": "client id",
+    "authorID": "your id",
+    "activityMessage": "/countdown'"
 }
